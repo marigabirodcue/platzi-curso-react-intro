@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/platzi-curso-react-intro/static/css/main.202e9a9f.css",
+    "main.js": "/platzi-curso-react-intro/static/js/main.b7d72205.js",
+    "index.html": "/platzi-curso-react-intro/index.html",
+    "static/media/delete.svg": "/platzi-curso-react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/platzi-curso-react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.202e9a9f.css.map": "/platzi-curso-react-intro/static/css/main.202e9a9f.css.map",
+    "main.b7d72205.js.map": "/platzi-curso-react-intro/static/js/main.b7d72205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202e9a9f.css",
+    "static/js/main.b7d72205.js"
+  ]
+}
